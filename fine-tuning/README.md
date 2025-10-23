@@ -9,15 +9,15 @@ This folder contains the visual representations of two key architectures used in
 
 ## Architectures
 
-<div style="display: flex; gap: 40px; align-items: center;">
+<div style="display: flex; gap: 60px; align-items: center;">
 
   <div style="text-align: center;">
-    <img src="./ResNetMLP.svg" alt="Architecture ResNetMLP" width="300" />
+    <img src="./ResNetMLP.svg" alt="Architecture ResNetMLP" width="1200" />
     <p><strong>Architecture ResNetMLP</strong></p>
   </div>
 
   <div style="text-align: center;">
-    <img src="./ViTMLP.svg" alt="Architecture ViTMLP" width="300" />
+    <img src="./ViTMLP.svg" alt="Architecture ViTMLP" width="1200" />
     <p><strong>Architecture ViTMLP</strong></p>
   </div>
 
