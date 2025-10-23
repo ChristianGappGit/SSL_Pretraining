@@ -1,17 +1,27 @@
 # SSL_Pretraining
-Self-Supervised Learning: Revealing the Power of Vision in Multimodal Tasks through Pretraining
 
-Pretraining
+## Self-Supervised Learning  
+Revealing the Power of Vision in Multimodal Tasks through Pretraining
+
+## Pretraining  
 SSL Pretraining
 
-Strategic Finetuning
-for stroke relapse detection
+## Strategic Finetuning  
+For stroke relapse detection
 
 
-# Data
-3D CTAs + tabular data (age, gender, CHD (coronary herat disease), PAD (peripheral artery disease)
+# Data Description
 
-(the data could not be published due to legal restrictions)
+- **Data types:**
+  - 3D CTAs
+  - Tabular data including:
+    - Age
+    - Gender
+    - CHD (Coronary Heart Disease)
+    - PAD (Peripheral Artery Disease)
+
+- **Note:**
+  The data cannot be published due to legal restrictions.
 	
 # Dataset Overview
 
