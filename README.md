@@ -12,13 +12,20 @@ for stroke relapse detection
 3D CTAs + tabular data (age, gender, CHD (coronary herat disease), PAD (peripheral artery disease)
 
 (the data could not be published due to legal restrictions)
-
-# Statistics
-Pretraining: 491 3D CTAs from 491 patients at the time of the initial stroke event
-	train data: 393, validation: 98
 	
-Finetuning: 119 image-tabular pairs from 119 patients
-	train data: 95, testing: 24
+# Dataset Overview
+
+## Pretraining
+- **Total samples:** 491 3D CTAs from 491 patients (at initial stroke event)
+- **Split:**
+  - **Training:** 393
+  - **Validation:** 98
+
+## Finetuning
+- **Total samples:** 119 image–tabular pairs from 119 patients
+- **Split:**
+  - **Training:** 95
+  - **Testing:** 24
 
 # Code
 
