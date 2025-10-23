@@ -9,7 +9,7 @@ This folder contains the visual representations of two key architectures used in
 
 ## Architectures
 
-<div style="display: flex; gap: 60px; align-items: center;">
+<div style="display: flex; gap: 120px; align-items: center;">
 
   <div style="text-align: center;">
     <img src="./ResNetMLP.svg" alt="Architecture ResNetMLP" width="1200" />
