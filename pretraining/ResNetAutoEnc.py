@@ -21,7 +21,6 @@ from monai.networks.layers import Conv
 __all__ = ["ResNetAutoEnc"]
 
 
-
 class ResNetAutoEnc(nn.Module):
     """
     ResNet-based autoencoder with 3D convolutional layers.
