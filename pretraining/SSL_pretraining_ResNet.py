@@ -84,9 +84,10 @@ def create_dicom_folder_list(dir):
     return data_folders
 
 img_dirs_1st = create_dicom_folder_list(f"{data_dir}/1st_stroke_event")
-img_dirs_more = create_dicom_folder_list(f"{data_dir}/2nd_stroke_event")
-img_dirs_more += create_dicom_folder_list(f"{data_dir}/3rd_stroke_event")
-#...
+# we decided, not to add the second or third event images (they are rarely available anyway)
+#img_dirs_more = create_dicom_folder_list(f"{data_dir}/2nd_stroke_event")
+#img_dirs_more += create_dicom_folder_list(f"{data_dir}/3rd_stroke_event")
+#
 print("len(img_dirs_1st): ", len(img_dirs_1st))
 print("first five items in images_dir: ", img_dirs_1st[:5])
 
