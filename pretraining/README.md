@@ -5,11 +5,11 @@ We have made available the pretraining code here.
 
 ## ResNet Autoencoder Pretraining
 
-![ResNet Pretraining](resnet_autoenc_pretraining.png)
+<img src="resnet_autoenc_pretraining.png" alt="ResNet Pretraining" width="50%" />
 
 ---
 
 ## ViT Autoencoder Pretraining
 
-![ViT Pretraining](vit_autoenc_pretraining.png)
+<img src="vit_autoenc_pretraining.png" alt="ViT Pretraining" width="50%" />
 
