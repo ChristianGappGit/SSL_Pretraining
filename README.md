@@ -52,7 +52,18 @@ If you wish to use the code to your own datasets, you can:
   - **Training:** 95
   - **Testing:** 24
 
-# Code
+## Code
+
+All code related to **SLL pretraining** is made **fully available** in this repository.  
+This includes implementations for the **ResNet Autoencoder** and **ViT Autoencoder** used in the L1-based self-supervised pretraining stage.
+
+The code for **fine-tuning and architecture training** (ResNetMLP and ViTMLP) is **partially available**, with some modules withheld due to institutional and legal restrictions.
+
+> ⚙️ **Summary:**
+> - ✅ Pretraining code — *fully released*
+> - ⚠️ Fine-tuning & architecture code — *partially released*
+> - 💡 Both models are easily extendable and can be integrated into your own workflows or datasets.
+
 
 
 # Citation
