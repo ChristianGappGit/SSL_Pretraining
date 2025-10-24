@@ -88,5 +88,5 @@ You can cite the repository as follows:
   author       = {Christian Gapp and Elias Tappeiner and Martin Welk and Karl Fritscher and Stephanie Mangesius and Constantin Eisenschink and Astrid E. Grams and Elke R. Gizewski and Philipp Deisl and Michael Knoflach and Rainer Schubert},
   year         = {2025},
   howpublished = {\url{https://github.com/ChristianGappGit/SSL_Pretraining}},
-  note         = {Available at GitHub. Pretraining and model architecture resources for SLL.}
+  note         = {Available at GitHub. Pretraining and model architecture resources for SSL.}
 }
