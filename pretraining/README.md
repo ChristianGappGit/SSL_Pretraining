@@ -19,7 +19,7 @@ Below are visual summaries of the **L1 reconstruction losses** during pretrainin
 
 ---
 
-## 🧠 ResNet Autoencoder Pretraining
+## 🔍 ResNet Autoencoder Pretraining
 
 <div align="center">
   <img src="resnet_autoenc_pretraining.png" alt="ResNet Autoencoder Pretraining" width="60%" />
@@ -37,7 +37,7 @@ Below are visual summaries of the **L1 reconstruction losses** during pretrainin
 
 ---
 
-### Summary
+### 🧠 Summary
 
 These visualizations demonstrate how each architecture learns to minimize the **L1 reconstruction loss** over training epochs.  
 You can use similar setups to pretrain models on your own datasets before fine-tuning them for downstream tasks.
