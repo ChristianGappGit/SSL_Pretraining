@@ -66,6 +66,27 @@ The code for **fine-tuning and architecture training** (ResNetMLP and ViTMLP) is
 
 
 
-# Citation
-Please cite:
+## Citation
 
+If you use this repository, or if our project has inspired or supported your research in any way,
+please consider citing it to acknowledge the effort behind its development 🙌.
+
+### 📚 How to Cite
+
+You can cite the repository as follows:
+
+> **Project:** 
+> **Authors:** [Christian Gapp], et al.
+> **Year:** 2025
+> **Repository:** [https://github.com/ChristianGappGit/SSL_Pretraining](https://github.com/ChristianGappGit/SSL_Pretraining)
+
+### BibTeX Entry
+
+```bibtex
+@misc{yourname2025sll,
+  title        = {Vision’s Potential Unlocked: How Pretraining and Strategic Fine-tuning Improve Stroke Relapse Prediction},
+  author       = {Christian Gapp and Elias Tappeiner and Martin Welk and Karl Fritscher and Stephanie Mangesius and Constantin Eisenschink and Astrid E. Grams and Elke R. Gizewski and Philipp Deisl and Michael Knoflach and Rainer Schubert},
+  year         = {2025},
+  howpublished = {\url{https://github.com/ChristianGappGit/SSL_Pretraining}},
+  note         = {Available at GitHub. Pretraining and model architecture resources for SLL.}
+}
