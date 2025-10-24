@@ -1,6 +1,10 @@
 # Code for SLL Pretraining
 
-We’ve made the **Self-Supervised Learning (SLL) pretraining code** publicly available for your use and adaptation.  
+We’ve made the **Self-Supervised Learning (SLL) pretraining code** publicly available for your use and adaptation.
+
+- [`SSL_pretraining_ResNet.py`](./SSL_pretraining_ResNet.py)
+- [`SSL_pretraining_ViT.py`](./SSL_pretraining_ViT.py)
+
 The base implementation uses **L1 loss**, but it can easily be extended with **contrastive loss** — simply uncomment the relevant lines in the script.
 
 > 💡 **Tip:**  
