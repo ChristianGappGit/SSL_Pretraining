@@ -27,7 +27,7 @@ For stroke relapse detection
 
 ## Data Availability
 
-The datasets used for the **SLL pretraining** and **Fine-Tuning os Stroke Relapse task** are **not publicly available** due to institutional and licensing restrictions.
+The datasets used for the **SLL pretraining** and **Fine-Tuning on Stroke Relapse task** are **not publicly available** due to institutional and licensing restrictions.
 However, all experiments were conducted on **standard open-source benchmarks**, and equivalent data can be obtained from publicly accessible repositories.
 
 If you wish to use the code to your own datasets, you can:
