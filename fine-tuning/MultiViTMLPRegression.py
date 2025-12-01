@@ -136,7 +136,7 @@ class ViTMLPRegression(nn.Module):
                     num_heads = num_heads,
                     proj_type = "conv",
                     classification = False, #changed, to add some conv layers on top
-                    num_classes = num_vision_features, #Important: set to the number of clinical features
+                    num_classes = num_vision_features, #could be None, if classification is False
                     dropout_rate = dropout_rate,
                     spatial_dims = spatial_dims,
                     post_activation=act,
