@@ -85,8 +85,8 @@ You can cite the repository as follows:
 ```bibtex
 @misc{Gapp2025_SSL_Stroke,
   title        = {Vision’s Potential Unlocked: How Pretraining and Strategic Fine-tuning Improve Stroke Relapse Prediction},
-  author       = {Christian Gapp and Elias Tappeiner and Martin Welk and Karl Fritscher and Stephanie Mangesius and Constantin Eisenschink and Astrid E. Grams and Elke R. Gizewski and Philipp Deisl and Michael Knoflach and Rainer Schubert},
-  year         = {2025},
+  author       = {[Christian Gapp and Elias Tappeiner and Martin Welk and Karl Fritscher and Stephanie Mangesius and Constantin Eisenschink and Astrid E. Grams and Elke R. Gizewski and Philipp Deisl and Michael Knoflach and Rainer Schubert]},
+  year         = {2026},
   howpublished = {\url{https://github.com/ChristianGappGit/SSL_Pretraining}},
   note         = {Available at GitHub. Pretraining and model architecture resources for SSL.}
 }
